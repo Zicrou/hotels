@@ -44,7 +44,7 @@
 
     <!-- Logo -->
     <a class="navbar-brand fw-bold fs-4" href="#">
-      <img src="{{ asset('storage/hotels/9XBfCYUbNGZgVeriGv5QrjqS9RfzUKvBUnBnepsr.jpg') }}" alt="Hotel Logo" height="35" class="me-2">
+      <img src="{{ asset('storage/hotels/logo/logo.jpg') }}" alt="Hotel Logo" height="35" class="me-2">
       Hôtel
     </a>
 
