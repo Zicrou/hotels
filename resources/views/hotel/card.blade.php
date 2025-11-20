@@ -35,7 +35,7 @@
   </div>
 </div> --}}
 
-<div class="card mb-3" style="width: 100%;">
+<div class="card mb-3 rounded-top" style="width: 100%;border-top:12px solid #0a1a2f;">
   <div class="row g-0">
     <div class="col-md-4">
         @if ($hotel->main_image)
